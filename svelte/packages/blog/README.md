@@ -1,5 +1,7 @@
 # sv
 
+Here is a change in the blog package's root directory, not front.
+
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
 ## Creating a project

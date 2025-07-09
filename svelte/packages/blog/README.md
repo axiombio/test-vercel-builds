@@ -1,6 +1,6 @@
 # sv
 
-Here is a change in the front package's root directory.
+Here is a change in the blog package's root directory.
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 

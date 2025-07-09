@@ -8,7 +8,7 @@ importers:
 
   .: {}
 
-  packages/blog:
+  svelte/packages/blog:
     dependencies:
       ui:
         specifier: workspace:*
@@ -63,7 +63,7 @@ importers:
         specifier: ^6.2.6
         version: 6.3.5
 
-  packages/front:
+  svelte/packages/front:
     dependencies:
       ui:
         specifier: workspace:*
@@ -118,7 +118,7 @@ importers:
         specifier: ^6.2.6
         version: 6.3.5
 
-  packages/ui:
+  svelte/packages/ui:
     devDependencies:
       '@eslint/compat':
         specifier: ^1.2.5
